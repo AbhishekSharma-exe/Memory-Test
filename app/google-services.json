@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476312285670",
+    "project_id": "memory-test-4b814",
+    "storage_bucket": "memory-test-4b814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476312285670:android:d5e4904dd193980dcf2627",
+        "android_client_info": {
+          "package_name": "com.example.memorytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476312285670-pdo11oii4jtd0slpn4ri2rhkma445vs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgwlfVzEcEwGt99pZdhbQfedm7LSTouYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476312285670-pdo11oii4jtd0slpn4ri2rhkma445vs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
